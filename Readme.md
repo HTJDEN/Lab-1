@@ -1,2 +1,2 @@
 # ET0735 - Lab 1 (introduction to Git and Github )
-![alt text] https://www.google.com/url?sa=i&url=https%3A%2F%2Fiava.org%2Fpeople%2Fdavid-goggins&psig=AOvVaw17eilq9UhLOF8kwZTXJjQx&ust=1748182684341000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjxyZKmvI0DFQAAAAAdAAAAABAE
+[![alt text](https://scontent.fsin17-1.fna.fbcdn.net/v/t39.30808-1/313133613_660813665406240_1390490171067779974_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=LzFUaKjVvzwQ7kNvwFgFIs_&_nc_oc=Admj69jliEqlIavIz1qk2qr2NAcfH_r3S-gfUWH5Qp02IsB3GzR6k3ayGYVphAJMduk&_nc_zt=24&_nc_ht=scontent.fsin17-1.fna&_nc_gid=VRD79EYRU86yPCWQ229uvw&oh=00_AfJ65-7mpVu-HFBLeYMvAKTCoMUoyGInXqzAHYa7zAny_w&oe=68379E1A)
