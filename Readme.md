@@ -5,3 +5,4 @@
 " target="_blank"><img src="http://img.youtube.com/vi/7bQVxizfU7c/0.jpg" 
 alt="[IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/7bQVxizfU7c/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgXShaMA8=&rs=AOn4CLDasAeBpvRDowYFqsEmBQYN6aYhXg)" width="240" height="180" border="10" /></a>
 
+![alttext](https://github.com/HTJDEN/Lab-1/blob/master/tiger.jpg?raw=true)
